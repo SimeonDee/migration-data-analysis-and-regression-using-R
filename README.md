@@ -2,7 +2,6 @@
 This project uses Migration Dataset from World Development Indicators database to demonstrate Hypothesis Testing, Sales Analysis, Time-Series Analysis and Linear Regression Model using R-Programming Language.
 
 ## Tools Used
----
 - R-Language (for Hypothsis Testing, Analysis, Time-Series Analysis and Regression Modeling)
 - Microsoft Power BI (For Dashboard and Reporting)
 
