@@ -2,8 +2,8 @@
 This project uses Migration Dataset from World Development Indicators database to demonstrate Hypothesis Testing, Sales Analysis, Time-Series Analysis and Linear Regression Model using R-Programming Language.
 
 ## Tools Used
-- R-Language (for Hypothsis Testing, Analysis, Time-Series Analysis and Regression Modeling)
-- Microsoft Power BI (For Dashboard and Reporting)
+- `R-Language` (for Hypothsis Testing, Analysis, Time-Series Analysis and Regression Modeling)
+- `Microsoft Power BI` (For Dashboard and Reporting)
 
 ## Dataset Description
 The dataset contains various metrics ranging from economic, Financial (Lending interest rate, ), Basic amenities and assessibilities, educational, medical and environmental estimates of data of five countries namely USA, Canada, Germany, UK, India, Mexico, China, Australia, Bangladesh and Pakistan. 
